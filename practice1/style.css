@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.contianer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h2{
+    text-align: center;
+    margin-top: 2em;
+}
+.input-field{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2em;
+    gap: 1em;
+}
+#operator{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2em;
+    gap: 1em;
+    padding: 10px 10px;
+}
